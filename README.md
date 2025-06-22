@@ -3,18 +3,6 @@
 This was a project for my Introduction to Algorithms and Data Structures class. It is a program written in C to manage  
 vaccine inoculations to users, allowing registration of different vaccine batches and logging their administration and availability.
 
-## Installation
-To set up the build environment, run the following commands in your repository's root directory:
-
-1. **Install build dependencies:**
-    ```sh
-    sudo apt-get update && sudo apt-get install -y build-essential
-    ```
-
-2. **Build the project with GCC:**
-    ```sh
-    gcc -O3 -Wall -Wextra -Werror -Wno-unused-result -o vaccinesystem *.c
-    ```
 
 ## Usage
 
